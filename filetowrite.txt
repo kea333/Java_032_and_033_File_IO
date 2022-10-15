@@ -1,0 +1,1 @@
+Store this String in a file called filetowrite.txt
